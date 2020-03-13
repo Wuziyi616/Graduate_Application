@@ -1,7 +1,7 @@
 # Professor List in CV
 Currently looking for summer internship in Computer Vision area, so I make a list of professors that interest me.  
   
-Professors are grouped by universities, sorted by [csranking](http://csrankings.org/). I mainly select professors who still work in universities for full-time, and still publish papers in last year.  
+Professors are grouped by universities, sorted by [csranking](http://csrankings.org/). I mainly select professors who still work in universities for full-time, and still published papers last year.  
   
 Info terms include:  
 - University Name
