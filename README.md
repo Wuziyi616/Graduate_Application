@@ -12,4 +12,7 @@ Info terms include:
 - Tips (additional information, like citation from Google Scholar, affiliated lab, some famous papers)
   
   
-Hope this can help you in finding ideal summer intern / phd advisor. 頑張って!!!
+Hope this can help you in finding ideal summer intern / phd advisor. 頑張って!!!  
+  
+# Update 2020.3.13
+Received several offers from professors in the list. I upload my email template used in finding summer internship and hope this will help you~
