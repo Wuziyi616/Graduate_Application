@@ -1,0 +1,22 @@
+Dear Prof. XXX:
+
+Hi! I am Ziyi Wu, a senior undergraduate from the Department of Automation, Tsinghua University, P.R.China (personal homepage here), and I will graduate next July. Being desirous to further pursue my research interests, I have decided to apply for the PhD program at XXX. I have submitted the online application before and mentioned you as my potential advisor.
+
+I am very interested in your research on computer vision and XXX, and I read your paper published recently on XXX, where you XXX. Since I have also been involved in some research projects within the same field, I do hope to join your group and work under your supervision. Below is the summary of my key experiences which demonstrate my research and learning abilities:
+
+A) I excel at academic study with an overall GPA 3.9/4.0 in the past three years, ranking 2/173 in our department.
+B) I have conducted research in computer vision, authoring an CVPR'20 paper as well as a paper which is in submission to T-PAMI. In the papers, we studied the problem of network quantization for object detectors, and achieve superior performance on large-scale datasets.
+C) During the summer internship, I studied the problem of adversarial attack and defense in 3D point clouds. Although I had little knowledge in these two fields before, I quickly familiarized myself with them via paper reading and coding. Consequently, I successfully completed the project and wrote a first-authored paper and submitted it to CVPR'21.
+
+This summer intern project raises my great interest in 3D vision tasks. As I go further into my research, I hope to combine them with robotics to enable machines to perceive the world as we human do. Given the above experiences, I am eager to have my potentials further tapped under your instruction and I would like to know whether or not you would enroll graduate students for doctoral degree in 2021? It would be great if you could kindly reply to this email at your earliest convenience.
+
+My CV is in the attachment for your reference. Thank you very much for your time. I am looking forward to hearing back from you soon.
+
+Best Regards,
+--
+Ziyi Wu
+
+Department of Automation, Tsinghua University
+Add: Zijing Student Dormitory 2#, Tsinghua University, Haidian District, Beijing 100084
+Tel: +86 18810237672
+Email: wuzy17@mails.tsinghua.edu.cn
